@@ -16,9 +16,3 @@
   - Dato CMS
   - Vercel
   - Firebase
-
----
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=robrechtme&show_icons=true&locale=en" alt="robrechtme" /></p>
-
